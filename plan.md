@@ -3,11 +3,16 @@
 
 | Day | Description | Person |
 | --- | --- | --- |
-| Day 1 Morning | Lecture on resistor, capacitor, and inductor, practical on Digilent kit | TBD |
-| Day 1 Afternoon| Lecture on passive filter, practical on filter | TBD |
-| Day 2 Morning | Lecture on amplifer and active filter, practical on active amplifer and filter  | TBD |
-| Day 2 Afternoon | Practical on building EMG amplification circuit | TBD |
-| Day 3 Morning | *Optional practical on building ECG circuit | TBD |
+| Day 1 Morning | Lecture on resistor, capacitor, and inductor, practical on Digilent kit | Quentin |
+| Day 1 Afternoon| Lecture on passive filter, practical on filter | Amirreza |
+| Day 2 Morning | Lecture on amplifer and active filter, practical on active amplifer and filter  | Daniel |
+| Day 2 Afternoon | Practical on building EMG amplification circuit | Daniel |
+
+In all cases practicals will need 2 TAs in addition to the lecturer (in case the lecturer needs a break). 
+
+Daniel will design a populated PCB made up of three amplifiers so the students can get a demo of ECG. We can give them one each and they can bring these back when we do the NI DAQmx day three weeks later to record their heart beat with NI DAQs. 
+
+
 
 ## Bill of Material
 

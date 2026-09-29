@@ -3,8 +3,8 @@
 
 | Day | Description | Person |
 | --- | --- | --- |
-| Day 1 Morning | Lecture on resistor, capacitor, and inductor, practical on Digilent kit | Quentin |
-| Day 1 Afternoon| Lecture on passive filter, practical on filter | Amirreza |
+| Session 1 2 hours | Lecture on resistor, capacitor, and inductor, practical on Digilent kit | Quentin |
+| Session 2 2 hours| Lecture on passive filter, practical on filter | Amirreza |
 | Day 2 Morning | Lecture on amplifer and active filter, practical on active amplifer and filter  | Daniel |
 | Day 2 Afternoon | Practical on building EMG amplification circuit | Daniel |
 
